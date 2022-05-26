@@ -26,6 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Description
+
+Create databse using prostfix
+
+Ex. : example_demo_dev, test_demo_dev
+
 ## Installation
 
 ```bash
