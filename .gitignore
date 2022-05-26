@@ -20,6 +20,7 @@ lerna-debug.log*
 /dist
 /node_modules
 /package-lock.json
+.env
 
 # IDEs and editors
 /.idea
